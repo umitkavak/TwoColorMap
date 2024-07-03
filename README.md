@@ -1,5 +1,5 @@
-
-# Comparing C+ and NH Maps
+# Create two color map using FITS file
+## Comparing C+ and NH Maps
 
 This project loads two FITS files containing C+ 158 micron moment 0 and N_H maps, aligns the NH map to the C+ map using WCS, and creates an overlay plot of the two maps.
 
